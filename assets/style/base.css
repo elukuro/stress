@@ -1,0 +1,14 @@
+/*====================================================
+wrap area 
+======================================================*/
+#wrap{
+	width:50%;
+	margin:0 auto;
+	padding:auto;
+	line-height:none;
+}
+
+.wrapInner{
+	margin-top:30%;
+	text-align: center;
+}
